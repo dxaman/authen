@@ -94,7 +94,7 @@ function getAppIDConfig() {
 			config.redirectUri = process.env.redirectUri;
 		} else { // running on CF
 			let vcapApplication = JSON.parse(process.env["VCAP_APPLICATION"]);
-			return {"redirectUri" : "https://" + vcapApplication["application_uris"][0] + CALLBACK_URL};
+			return {"redirectUri" : "https://hackathon-wit.herokuapp.com/"["application_uris"][0] + CALLBACK_URL};
 		}
 	}
 	return config;
