@@ -4,5 +4,5 @@
   "profilesUrl": "https://eu-gb.appid.cloud.ibm.com",
   "secret": "ZTBkNDU0NjgtNTlkYi00M2Q4LTk3NGUtYzVjY2E4MzkxZDQy",
   "tenantId": "b612fdd7-c174-4bdc-8da8-8f2c42124ab5",
-  "redirectUri": "http://localhost:3000/ibm/cloud/appid/callback"
+  "redirectUri": "https://hackathon-wit.herokuapp.com/"
 }
