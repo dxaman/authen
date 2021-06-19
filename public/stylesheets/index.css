@@ -1,7 +1,7 @@
 
 html, body {
     height: 100%;
-    background: linear-gradient(to left, #36c270, #013001);
+    background: linear-gradient(to left, #6b6e6c, #0d0e0d);
     margin: 0;
     padding: 0;
 }
@@ -38,7 +38,7 @@ body {
 .flex-bottom {
     font-family: IBMPlexSans-Medium;
     font-size: 14px;
-    color: #42535C;
+    color: #e9eef1;
     letter-spacing: 0;
     line-height: 20px;
     font-weight: normal;
@@ -50,7 +50,7 @@ body {
 .text-div {
     font-family: IBMPlexSans-Light;
     font-size: 20px;
-    color: #152935;
+    color: #eff5f8;
     letter-spacing: 0;
     text-align: center;
     line-height: 24px;
@@ -78,8 +78,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     margin-bottom: 41px;
     margin-top: 81px;
 }
