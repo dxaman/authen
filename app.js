@@ -75,7 +75,7 @@
  });
  
  app.get('/error', (req, res) => {
-	 res.redirect("https://hackathon-wit.herokuapp.com/");
+	 res.redirect("https://hackathon-wit1.herokuapp.com/");
  });
  
  app.listen(port, () => {
